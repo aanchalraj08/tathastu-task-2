@@ -1,2 +1,2 @@
-# tathastu-task-2
+# Tathastu Task-2
 Responsive website | Tathastu Internship
